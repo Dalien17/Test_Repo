@@ -1,2 +1,2 @@
-#Git Bash push
+#Git Bash
 test push
