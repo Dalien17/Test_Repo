@@ -1,1 +1,2 @@
-Hi everyone!
+Zapis dalsiho radku pomoci GitBash
+Zapis jeste dalsiho radku pomoci GitBash
